@@ -150,7 +150,7 @@ main section:first-of-type{
 	width: 100%;
 	height: auto;
 
-	background-image: url("/images/main/article_background.png");
+	background-image: url("../images/main/article_background.png");
 	background-repeat: repeat-x; 
 
 	padding-bottom: 2em;
