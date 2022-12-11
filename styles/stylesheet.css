@@ -159,43 +159,43 @@ html, body{
 
 @font-face {
 	font-family: 'SpiegelSans';
-	src: url('/Fonts/Spiegel-Bold.woff') format('woff');
+	src: url('../Fonts/Spiegel-Bold.woff') format('woff');
 	font-weight: bold;
 }
 
 @font-face {
 	font-family: 'SpiegelSans';
-	src: url('/Fonts/Spiegel-SemiBold.woff') format('woff');
+	src: url('../Fonts/Spiegel-SemiBold.woff') format('woff');
 	font-weight: medium;
 }
 
 @font-face {
 	font-family: 'SpiegelSans';
-	src: url('/Fonts/Spiegel-Regular.woff') format('woff');
+	src: url('../Fonts/Spiegel-Regular.woff') format('woff');
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: 'Beaufortfor';
-	src: url('/Fonts/BeaufortforLOL-HeavyItalic.woff') format('woff');
+	src: url('../Fonts/BeaufortforLOL-HeavyItalic.woff') format('woff');
 	font-weight: bolder;
 }
 
 @font-face {
 	font-family: 'Beaufortfor';
-	src: url('/Fonts/BeaufortforLOL-Bold.woff') format('woff');
+	src: url('../Fonts/BeaufortforLOL-Bold.woff') format('woff');
 	font-weight: bold;
 }
 
 @font-face {
 	font-family: 'Beaufortfor';
-	src: url('/Fonts/BeaufortforLOL-BoldItalic.woff') format('woff');
+	src: url('../Fonts/BeaufortforLOL-BoldItalic.woff') format('woff');
 	font-weight: bold;
 	font-style: italic;
 }
 
 @font-face {
 	font-family: 'Beaufortfor';
-	src: url('/Fonts/BeaufortforLOL-Regular.woff') format('woff');
+	src: url('../Fonts/BeaufortforLOL-Regular.woff') format('woff');
 	font-weight: normal;
 }
